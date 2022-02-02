@@ -3,7 +3,7 @@
 
 " Plugin code goes here.
 
-call plug#begin('/home/masterchief/.config/nvim/plugged')
+call plug#begin('/home/user/.config/nvim/plugged')
 
 Plug 'morhetz/gruvbox'
 Plug 'yggdroot/indentline'
